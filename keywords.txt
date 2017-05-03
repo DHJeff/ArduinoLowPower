@@ -27,7 +27,7 @@ powerOffWifi		KEYWORD2
 enableWifi		KEYWORD2
 disableWifi		KEYWORD2
 enableStm32Sleep	KEYWORD2
-disableStm32Standby KEYWORD2
+disableStm32Standby	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
